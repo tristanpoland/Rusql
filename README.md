@@ -27,7 +27,7 @@ cargo install rusql
 Or build from source:
 
 ```bash
-git clone https://github.com/yourusername/rusql.git
+git clone https://github.com/tristanpoland/rusql.git
 cd rusql
 cargo build --release
 ```
